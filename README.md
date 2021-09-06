@@ -1,4 +1,4 @@
-d
+
 ### Olá! Eu sou o Pedro 🖐️
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Lucas-07&show_icons=true&theme=dracula)
